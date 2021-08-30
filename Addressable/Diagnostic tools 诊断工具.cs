@@ -1,4 +1,5 @@
 /*
+https://docs.unity3d.com/Packages/com.unity.addressables@1.18/manual/DiagnosticTools.html#the-addressables-analyze-tool
     Diagnostic tools 诊断工具
         Build layout report 构建布局报告
             包含Addressable构建的详细信息,包括:
